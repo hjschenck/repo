@@ -1,1 +1,1 @@
-hello wordl but theres no syntax so it doesnt work oh no!!!!
+print("hello wordl but there IS syntax so it doesnt work oh no!!!!")
